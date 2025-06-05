@@ -229,7 +229,7 @@ Backup/*
 !Build/Linux/Application.png
 !Documentation/**/*.png
 !.github/doxygen/logo.png
-!Art/*.png
+!Art
 
 ## Audio (do not ignore FMOD assets)
 *.wav
