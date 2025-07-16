@@ -1,5 +1,5 @@
 **Instalation**
-- Extract the .zip or .rar compressed file found in the releases section.
+- Extract the .zip or .rar compressed file found in the releases section. ("Final Release")
 - Run the game by opening "ExoMorphosis.exe"
 
 **Min tested required specs**
