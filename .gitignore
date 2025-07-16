@@ -169,6 +169,7 @@ Temporary Items
 # Compiled source files for the engine to use
 /Intermediate
 /Plugins/**/Intermediate
+/Output
 
 # Cache files for the editor to use
 /DerivedDataCache
@@ -193,7 +194,6 @@ Backup/*
 
 # Raw Content file types
 ## Models
-*.fbx
 *.3ds
 *.blend
 *.blend1
@@ -207,7 +207,6 @@ Backup/*
 *.st
 *.srt
 ## Textures
-*.jpg
 *.psd
 *.xcf
 *.exr
@@ -218,7 +217,6 @@ Backup/*
 *.spp
 *.xcf
 *.assbin
-*.png
 
 # some PNGs should be here
 !Content/Splash/Splash*.png
@@ -228,9 +226,9 @@ Backup/*
 !Build/Linux/Application.png
 !Documentation/**/*.png
 !.github/doxygen/logo.png
+!Art
 
 ## Audio (do not ignore FMOD assets)
-*.wav
 *.mp3
 *.ogg
 *.flac
